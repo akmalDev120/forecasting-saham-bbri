@@ -1,0 +1,8 @@
+# Blokir semua file data berformat CSV agar tidak masuk ke GitHub
+*.csv
+data/
+
+# Blokir virtual environment python
+.venv/
+venv/
+__pycache__/
